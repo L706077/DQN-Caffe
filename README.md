@@ -38,3 +38,13 @@ https://www.youtube.com/watch?v=p88R2_3yWPA
 ### some issue:
 - [annot find #include "caffe/proto/caffe.pb.h](https://github.com/BVLC/caffe/issues/1761)
   
+  
+  
+---
+## other caffe dqn source
+- [fast-dqn](https://github.com/watts4speed/fast-dqn-caffe)
+- [dqn](https://github.com/aiworld/dqn)
+
+
+  
+  
