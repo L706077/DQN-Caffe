@@ -25,7 +25,9 @@ https://www.youtube.com/watch?v=p88R2_3yWPA
 
 
 ---
-
+- [install reference](http://blog.csdn.net/hmxiaobao/article/details/51275122)
+- [ALE](http://www.arcadelearningenvironment.org/)
+- [Oringinal repo](https://github.com/muupan/dqn-in-the-caffe)
 ### Change some code in dqn.cpp & dqn.hpp and CMakeLists.txt:
   #ifdef USE_OPENCV
   #endif  // USE_OPENCV
