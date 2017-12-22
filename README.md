@@ -32,4 +32,7 @@ https://www.youtube.com/watch?v=p88R2_3yWPA
   #ifdef USE_OPENCV
   #endif  // USE_OPENCV
   
+---
+### some issue:
+- [annot find #include "caffe/proto/caffe.pb.h](https://github.com/BVLC/caffe/issues/1761)
   
