@@ -22,3 +22,12 @@ Demo
 --
 
 https://www.youtube.com/watch?v=p88R2_3yWPA
+
+
+---
+
+### Change some code in dqn.cpp & dqn.hpp and CMakeLists.txt:
+  #ifdef USE_OPENCV
+  #endif  // USE_OPENCV
+  
+  
